@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="appHeading">let\'s Play\nTicTacToe</string>
+    <string name="btnRestart">Restart</string>
+</resources>
